@@ -9,11 +9,11 @@ In this project, we delved into understanding the current state of the shop, est
 
 Here are some key analyses we conducted:
 
-## Peak Hours and Busiest Day:  
+### 1- Peak Hours and Busiest Day:  
        Revealed that the busiest hour is 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 𝟏𝟎-𝟏𝟏 𝐀𝐌, 𝐰𝐢𝐭𝐡 𝐅𝐫𝐢𝐝𝐚𝐲𝐬 emerging as the peak day for foot traffic.
-## Product Category Contribution: 
+### 2- Product Category Contribution: 
       Discovered that 𝐜𝐨𝐟𝐟𝐞𝐞 (𝟑𝟗%) 𝐚𝐧𝐝 𝐭𝐞𝐚 (𝟐𝟖%) are the primary revenue contributors.
-## Store Location Performance: 
+### 3- Store Location Performance: 
       Identified that 𝐋𝐨𝐰𝐞𝐫 𝐌𝐚𝐧𝐡𝐚𝐭𝐭𝐚𝐧 lags slightly behind other locations in performance.
 
 ----------------------------------------------------------------------------------------------
