@@ -2,7 +2,10 @@
 Enhancing the performance of Coffee Shop operations. The project's primary goal was to 𝐚𝐧𝐚𝐥𝐲𝐳𝐞 𝐫𝐞𝐭𝐚𝐢𝐥 𝐬𝐚𝐥𝐞𝐬 data to derive actionable insights, ultimately boosting revenue, customer satisfaction, and overall efficiency.
 
 ---------------------------------------------
-Start your Day with Coffee 
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">Start your Day with Coffee
+
+ 
 ## Project Overview:
 In this project, we delved into understanding the current state of the shop, establishing vital Key Performance Indicators (KPIs) such as total sales, footfall, average order per customer, and average order quantity.
 
